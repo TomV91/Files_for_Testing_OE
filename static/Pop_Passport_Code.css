@@ -326,7 +326,7 @@ div[class*='event-details'] > .items-start {
     margin-top: 0;
   }
 }
-
+/* 
 #sign-in-page .main-content-wrapper .editable-sign-in div .editable-sign-in--wrapper form input,
 #sign-in-page .main-content-wrapper .editable-sign-in .shadow-gray form input,
 #sign-in-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) div .editable-sign-in--wrapper form input,
@@ -336,7 +336,7 @@ div[class*='event-details'] > .items-start {
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) div .editable-sign-in--wrapper form input,
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) .shadow-gray form input {
   color: #000000;
-}
+} */
 
 #sign-in-page .main-content-wrapper .editable-sign-in div .editable-sign-in--wrapper form .mr-2,
 #sign-in-page .main-content-wrapper .editable-sign-in .shadow-gray form .mr-2,
@@ -387,7 +387,7 @@ div[class*='event-details'] > .items-start {
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) div .editable-sign-in--wrapper .editable-registration--access-code div,
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) .shadow-gray .editable-sign-in--access-code div,
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) .shadow-gray .editable-registration--access-code div {
-  color: #000000;
+  /* color: #000000; */
   justify-content: flex-start;
 }
 
@@ -420,7 +420,7 @@ div[class*='event-details'] > .items-start {
 #registration-page .main-content-wrapper > div:not(.editable--event-details):not(.shadow-gray) div > div {
   background-color: transparent;
   border: none;
-  color: #000000;
+  /* color: #000000; */
   font-weight: 600;
   text-transform: none;
 }
@@ -559,9 +559,9 @@ div[class*='event-details'] > .items-start {
   fill: #002D72;
 }
 
-#meeting-details-page .main-content-wrapper .shadow-gray p {
+/* #meeting-details-page .main-content-wrapper .shadow-gray p {
   color: #000000 !important;
-}
+} */
 
 #meeting-details-page .main-content-wrapper .shadow-gray .text-sm > span:first-child {
   display: none;
@@ -593,7 +593,7 @@ div[class*='event-details'] > .items-start {
 #welcome-page .editable-welcome--wrapper > div:not(.editable-welcome-footer) .editable-welcome--description {
   margin: 0;
   padding-right: 1rem;
-  color: #000000;
+  /* color: #000000; */
 }
 
 #welcome-page .editable-welcome--wrapper > div:not(.editable-welcome-footer) .editable-welcome--description {
@@ -676,21 +676,21 @@ div[class*='event-details'] > .items-start {
 }
 
 #welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover .editable-welcome-footer--description {
-  color: #000000;
+  /* color: #000000; */
   font-weight: 500;
   font-size: 1rem;
   transition: color .2s ease-in-out;
 }
 
 #welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover .editable-welcome-footer--title {
-  color: #002D72;
+  /* color: #002D72; */
   font-weight: 600;
   transition: color .2s ease-in-out;
 }
 
-#welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover:hover {
+/* #welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover:hover {
   background-color: #005aa1;
-}
+} */
 
 #welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover:hover .editable-welcome-footer--title,
 #welcome-page .editable-welcome--wrapper .editable-welcome-footer .editable-welcome-footer--wrapper.bg-primary-lighter-hover:hover .editable-welcome-footer--description {
@@ -715,7 +715,7 @@ div[class*='event-details'] > .items-start {
 #agenda-page .main-content-wrapper .editable-agenda--wrapper .editable-agenda--upcoming-meeting > p {
   padding: 0;
   max-width: max-content;
-  color: #000000;
+  /* color: #000000; */
   margin: 1rem 0;
   font-size: 1.5rem;
 }
@@ -788,7 +788,7 @@ div[class*='event-details'] > .items-start {
 }
 
 #agenda-page .main-content-wrapper .editable-agenda--wrapper .editable-agenda--footer p {
-  color: #000000;
+  /* color: #000000; */
   font-weight: 500;
 }
 
@@ -807,7 +807,7 @@ div[class*='event-details'] > .items-start {
 }
 
 #session-page .main-content-wrapper .editable-session--wrapper .editable-session--header {
-  color: #000000;
+  /* color: #000000; */
   padding: 0;
   margin-bottom: 1rem;
 }
@@ -820,14 +820,14 @@ div[class*='event-details'] > .items-start {
   margin-bottom: .5rem;
 }
 
-#session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-header .editable-session--table-header-right .truncate {
+/* #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-header .editable-session--table-header-right .truncate {
   color: #000000;
-}
+} */
 
 #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row > p {
   padding: 0;
   max-width: max-content;
-  color: #000000;
+  /* color: #000000; */
   margin: 1rem 0;
   font-size: 1.5rem;
 }
@@ -836,11 +836,11 @@ div[class*='event-details'] > .items-start {
   background-color: unset;
 }
 
-#session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row .editable-session--table-row-left .break-words,
+/* #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row .editable-session--table-row-left .break-words,
 #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row .editable-session--table-row-left .editable-session--table-row-left-date,
 #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row .editable-session--table-row-left .text-sm {
   color: #000000;
-}
+} */
 
 #session-page .main-content-wrapper .editable-session--wrapper .editable-session--table-row .editable-session--table-row-right .editable-session--table-row-right-tile > .sm-shadow-gray {
   transition: box-shadow .2s ease-in-out;
@@ -945,11 +945,11 @@ div[class*='event-details'] > .items-start {
 #support-page div[class*='--description'], #custom-rich-text-page div[class*='--description'] {
   margin: 0;
   margin-top: 1rem;
-  color: #000000;
+  /* color: #000000; */
   font-weight: 500;
 }
 
-footer {
+/* footer {
   background: #333333 !important;
   height: auto !important;
   display: flex !important;
@@ -998,7 +998,7 @@ footer a.text-primary:nth-of-type(2):before {
 
 footer a.text-primary:nth-of-type(3):before {
   background: url("https://s3.amazonaws.com/present.knowledgevision.com/account/bfd6ecfb-1f49-426c-9ccf-51b335a49252/subaccount/faf6459d-3aa9-4914-9bde-7a8631398a5e/content/assets/templates/template_background/youtube_icon_png_1633535364679/youtube_icon_737184d8-0c12-4adc-83a3-c7babf4c9223.png?AWSAccessKeyId=AKIAJ3VQS6HPMVD4IBQA&Expires=2145916800&Signature=xPJKQIrP1rJaSLWLguhzC3OjEdM%3D");
-}
+} */
 
 .main-content-wrapper .editable-agenda--wrapper > h1, .main-content-wrapper .editable-agenda--wrapper > h2, .main-content-wrapper .editable-session--header > h1, .main-content-wrapper .editable-session--header > h2, .rich-text-content-wrapper .editable-agenda--wrapper > h1, .rich-text-content-wrapper .editable-agenda--wrapper > h2, .rich-text-content-wrapper .editable-session--header > h1, .rich-text-content-wrapper .editable-session--header > h2 {
   color: #002D72;
@@ -1181,9 +1181,9 @@ form input[type="checkbox"] {
 }
 
 /* Fix dev's broken color update */
-#page-top .post-details-description-button {
+/* #page-top .post-details-description-button {
   color: #000000;
-}
+} */
 
 .editable-welcome-event-details .items-start {
   display: block !important;
